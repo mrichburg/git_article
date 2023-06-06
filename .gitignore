@@ -1,0 +1,9 @@
+# you can add comments like this
+
+# individual files
+do_not_track.txt
+
+# directories
+data/
+
+
