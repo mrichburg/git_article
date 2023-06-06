@@ -1,1 +1,3 @@
-I am making a change to this first file.
+All mistakes were corrected.
+This file was staged and committed in the dev branch.
+
