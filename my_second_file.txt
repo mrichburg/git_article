@@ -1,2 +1,1 @@
-Editing my second file
-Added to dev.
+Can you believe that this text was added in dev?
